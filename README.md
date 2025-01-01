@@ -4,4 +4,4 @@ We are creating all prompts for voice agents.
 
 Feel free to contribute to this project!
 
-To build Voice Agents Easily, checkout [callsupport.ai](https://callsupport.ai).
+For more information, visit <a href="https://callsupport.ai" target="_blank">callsupport.ai</a>.
