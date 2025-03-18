@@ -35,9 +35,6 @@ What salary range are you looking for in your next role?
 When would you be available to start a new role?  
 (If they have already mentioned their availability, acknowledge it instead of repeating the question.)  
 
-## Interviewing Elsewhere  
-Are you currently interviewing for any other roles? This helps us ensure we don’t send your CV to a company you're already dealing with.  
-(If they have already mentioned this earlier, acknowledge it instead of asking again.)  
 
 (If they do not meet these requirements, politely conclude the call and log the outcome.)  
 
